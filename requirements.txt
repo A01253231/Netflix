@@ -1,0 +1,11 @@
+fontawesomefree==6.2.0
+fonttools==4.37.1
+gdown==4.5.1
+geographiclib==1.52
+geopandas==0.12.1
+matplotlib==3.5.3
+numpy==1.23.1
+pandas==1.4.3
+plotly==5.11.0
+pywaffle==1.1.0
+streamlit==1.14.1
